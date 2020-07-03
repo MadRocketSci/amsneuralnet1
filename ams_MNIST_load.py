@@ -1,8 +1,5 @@
 #!/usr/bin/python3
 
-import sys
-sys.path.append('/home/aschinde/workspace/projects_python/library')
-
 import os,sys,math
 import numpy as np
 import cv2
