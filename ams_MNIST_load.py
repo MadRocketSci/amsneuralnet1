@@ -129,7 +129,7 @@ def read_test_data():
 def show_MNIST_image(img):
     import matplotlib.pyplot as plt
     plt.figure()
-    plt.imshow(255-img,cmap='gray')
+    plt.imshow(img,cmap='gray')
     plt.show()
     return
 
