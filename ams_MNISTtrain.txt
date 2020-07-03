@@ -1,0 +1,26 @@
+amsneuralnet MNIST trainer:
+
+loading MNIST dataset...
+reformatting data...
+Training MNIST, 20 epochs in batches of 100 out of 60000
+Learning rate 0.001
+ep=	0	 loss=	0.9568	 trn_accuracy=	0.2072
+ep=	1	 loss=	0.4097	 trn_accuracy=	0.3091
+ep=	2	 loss=	0.3710	 trn_accuracy=	0.4274
+ep=	3	 loss=	0.3513	 trn_accuracy=	0.4607
+ep=	4	 loss=	0.3400	 trn_accuracy=	0.4918
+ep=	5	 loss=	0.3242	 trn_accuracy=	0.5065
+ep=	6	 loss=	0.3137	 trn_accuracy=	0.5240
+ep=	7	 loss=	0.3058	 trn_accuracy=	0.5241
+ep=	8	 loss=	0.2927	 trn_accuracy=	0.5592
+ep=	9	 loss=	0.2856	 trn_accuracy=	0.5797
+ep=	10	 loss=	0.2763	 trn_accuracy=	0.5898
+ep=	11	 loss=	0.2673	 trn_accuracy=	0.5982
+ep=	12	 loss=	0.2615	 trn_accuracy=	0.6290
+ep=	13	 loss=	0.2551	 trn_accuracy=	0.6359
+ep=	14	 loss=	0.2595	 trn_accuracy=	0.6389
+ep=	15	 loss=	0.2510	 trn_accuracy=	0.6452
+ep=	16	 loss=	0.2417	 trn_accuracy=	0.6711
+ep=	17	 loss=	0.2416	 trn_accuracy=	0.6719
+ep=	18	 loss=	0.2367	 trn_accuracy=	0.6922
+ep=	19	 loss=	0.2317	 trn_accuracy=	0.6912
